@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    
+}
+
+hr {
+    color: #09ff00;
+}
+
+a {
+    color: #09ff00;
+}
+
+#title {
+    color: #09ff00;
+    text-align: left;
+    font-family: 'VT323', monospace;
+    font-size: 40pt;
+}
+
+#content {
+    color: #09ff00;
+    text-align: left;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 20px;
+}
+
+#user {
+    color: #008ba3;
+    font-family: 'Share Tech', sans-serif;
+    font-size: 20px;
+}
+
+.blink {
+    animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+    50% { opacity:0; }
+}
