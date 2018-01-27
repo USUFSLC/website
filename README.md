@@ -8,6 +8,6 @@ I'm waiting to post the server code, mainly because it's not ready. I could have
 
 The first image is how the index.html will render. The second image is with the commented out spots uncommented and the following lines commented. Also with a few tweaks to the css.
 
-[[https://github.com/USUFSLC/website/readme_images/terminal_proposal.png|alt=Terminal]]
+![alt text](https://github.com/USUFSLC/website/blob/master/readme_images/terminal_proposal.png "Terminal")
 
-[[https://github.com/USUFSLC/website/readme_images/centered_proposal.png|alt=Centered]]
+![alt text](https://github.com/USUFSLC/website/blob/master/readme_images/centered_proposal.png "Centered")
