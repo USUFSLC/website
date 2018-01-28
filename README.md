@@ -2,7 +2,7 @@
 
 This is an early proposal for the website. Feel free to be critical!
 
-I'm waiting to post the server code, mainly because it's not ready. I could have just done it with some starter code from WebStorm or something, but I really want to know what's going on down in the weeds. I'll have it up as soon as it's functional at the most basic level.
+Check out the [install.md](install.md) for instructions on installation.
 
 ## Proposals
 
