@@ -1,6 +1,5 @@
 body {
     background-color: black;
-    
 }
 
 hr {
@@ -18,14 +17,14 @@ a {
     font-size: 40pt;
 }
 
-#content {
+.content {
     color: #09ff00;
     text-align: left;
     font-family: 'Share Tech Mono', monospace;
     font-size: 20px;
 }
 
-#user {
+.user {
     color: #008ba3;
     font-family: 'Share Tech', sans-serif;
     font-size: 20px;
